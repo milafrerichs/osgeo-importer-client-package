@@ -1,4 +1,4 @@
 include README.md
 include VERSION
-recursive-include osgeo-importer/static *
-recursive-include osgeo-importer/templates *.html
+recursive-include osgeo_importer_client/static *
+recursive-include osgeo_importer_client/templates *.html
